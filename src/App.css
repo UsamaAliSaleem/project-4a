@@ -1,0 +1,10 @@
+.target {
+  height: 660px;
+  width: 100%;
+  background-image: url(./video/road.gif);
+  background-size: cover;
+}
+.carr {
+  margin-top: 250px;
+  margin-left: 400px;
+}
